@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is CHAKON A/L EHCHEH
 =========================================================================================================================================
 
-Student Diplomat Digital Infromation at Politeknik Sultan Mizan Zainal Abidin
+Student Diploma Digital Infromation at Politeknik Sultan Mizan Zainal Abidin
 -----------------------------------------------------------------------------
 
 Basic skills in HTML, CSS, JavaScript, Java, and C++, and is passionate about expanding his knowledge in web development and cybersecurity. I'm aspires to become a full-stack developer and work as a freelancer in the IT field. He is particularly interested in jobs that allow him to grow his expertise in a friendly, non-stressful work environment. With a strong drive for continuous learning, he is determined to build a successful career in technology.
