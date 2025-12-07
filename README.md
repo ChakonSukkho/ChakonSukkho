@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student Diploma Digital Infromation at Politeknik Sultan Mizan Zainal Abidin
 -----------------------------------------------------------------------------
 
-Berikut versi ayat yang lebih mantap, profesional dan tersusun:
-
 ---
 
 I possess foundational skills in HTML, CSS, JavaScript, Java, and C++, and am deeply passionate about expanding my expertise in both web development and cybersecurity. My ambition is to become a full-stack developer and pursue a career as a freelancer in the IT industry. I actively seek opportunities in supportive, growth-oriented environments that encourage learning without excessive pressure. With a strong commitment to continuous self-improvement, I am determined to build a successful and impactful career in the field of technology.
