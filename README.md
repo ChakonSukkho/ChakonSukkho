@@ -10,8 +10,6 @@ I possess foundational skills in HTML, CSS, JavaScript, Java, and C++, and am de
 
 ---
 
-Jika mahu versi dalam Bahasa Melayu atau lebih santai, beritahu saja.
-
 * 🌍  I'm based in Tumpat, Kelantan
 * ✉️  You can contact me at [chakon0927sukkho@gmail.com](mailto:chakon0927sukkho@gmail.com)
 * 🧠  I'm learning HTML, CSS, JavaScript, Python and Java
