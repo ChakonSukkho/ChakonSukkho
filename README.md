@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ChakonSukkho](https://github.com/ChakonSukkho)
 
-- 💬 Ask me about **React, TypeScript, Supabase, PHP, Python, Power Automate, Dynamics 365, and cloud deployment**
-
 - 📫 How to reach me **chakon0927sukho@gmail.com**
 
 - ⚡ Fun fact **I enjoy turning real business problems into simple and practical software solutions.**
